@@ -1,15 +1,15 @@
 body {
-    background-image: url("/CSS/images/cFg.gif");
+    background-image: url("./images/cFg.gif");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .nav-top {
-    background-image: url("/CSS/images/pool\ water.png");
+    background-image: url("./images/pool\ water.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .jumbo {
-    background-image: url("/CSS/images/Screenshot\ 2022-06-12\ 103438adv2.png");
+    background-image: url("./images/Screenshot\ 2022-06-12\ 103438adv2.png");
     background-size: cover;
     border: .5rem solid gold;
 }
