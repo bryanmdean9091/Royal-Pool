@@ -1,0 +1,32 @@
+body {
+    background-image: url("/CSS/images/cFg.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-top {
+    background-image: url("/CSS/images/pool\ water.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jumbo {
+    background-image: url("/CSS/images/Screenshot\ 2022-06-12\ 103438adv2.png");
+    background-size: cover;
+    border: .5rem solid gold;
+}
+.royal {
+    font-family: 'Abril Fatface', cursive;
+}
+.card {
+    border: .5rem solid gold;
+}
+.card-jobs {
+font-family: 'Unna', serif;
+}
+.footer {
+    border: .5rem solid gold;
+    background-color: blue;
+}
+.navbar-brand {
+    list-style-type: none;
+    color: gol;
+}
